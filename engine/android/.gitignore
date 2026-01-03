@@ -3,6 +3,7 @@
 .DS_Store
 /app/build
 /app/.externalNativeBuild
+/app/.cxx
 /build
 /keystore.properties
 *.jks
