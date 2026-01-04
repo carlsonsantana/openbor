@@ -1,2 +1,0 @@
-/home/malik/Desktop/openbor_android_port/openbor-master/engine/android/app/jni/Android.mk
-/home/malik/Desktop/openbor_android_port/openbor-master/engine/android/app/jni/Application.mk

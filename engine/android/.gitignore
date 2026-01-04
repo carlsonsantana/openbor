@@ -2,6 +2,7 @@
 *.iml
 .DS_Store
 /app/build
+/app/.cxx
 /app/.externalNativeBuild
 /build
 /keystore.properties
